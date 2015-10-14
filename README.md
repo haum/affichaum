@@ -5,7 +5,7 @@ base de microcontrôleurs.
 
 ## Utilisation
 
-Le protocole de communication microcontrôleur <-> microcontrôleur retenu est le
+Le protocole de communication microcontrôleur ↔ microcontrôleur retenu est le
 protocole SPI pour sa simplicité de mise en œuvre et son faible impact sur la
 charge du contrôleur.
 
